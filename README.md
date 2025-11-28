@@ -11,8 +11,8 @@
 I'm a **Full-Stack Developer** passionate about leveraging **AI/ML** to solve real-world problems in healthcare. I specialize in building intelligent systems that bridge the gap between cutting-edge technology and practical clinical applications.
 
 - 🔭 Currently working on **AI-powered clinical decision support systems**
-- 🌱 Learning **Advanced RAG architectures, Vector Databases, and LLM Fine-tuning**
-- 💡 Interested in **Healthcare AI, Machine Learning, and Full-Stack Development**
+- 🌱 Learning **AI Agents, Advanced RAG architectures, Vector Databases, and LLM Fine-tuning**
+- 💡 Interested in **Healthcare AI, Autonomous Agents, Machine Learning, and Full-Stack Development**
 - 🎯 Goal: **Build impactful technology that improves patient outcomes**
 - 📫 Reach me: **senaykt@gmail.com**
 
@@ -37,9 +37,11 @@ I'm a **Full-Stack Developer** passionate about leveraging **AI/ML** to solve re
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### AI/ML & Data
+### AI/ML & Agents
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-8A3FFC?style=for-the-badge&logo=anthropic&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -96,7 +98,8 @@ I'm actively building and will be adding more projects showcasing:
 
 ```python
 current_focus = {
-    "AI/ML": ["Advanced RAG Systems", "Vector Databases", "LLM Fine-tuning"],
+    "AI/ML": ["AI Agents", "Advanced RAG Systems", "Vector Databases", "LLM Fine-tuning"],
+    "Agent Frameworks": ["LangChain", "AutoGen", "Claude Agent SDK", "CrewAI"],
     "Backend": ["Microservices Architecture", "GraphQL", "Real-time Systems"],
     "DevOps": ["Kubernetes", "CI/CD Pipelines", "Cloud Deployment"],
     "Healthcare": ["FHIR Standards", "HL7", "HIPAA Compliance"]
@@ -106,18 +109,19 @@ current_focus = {
 ## 💼 Experience Highlights
 
 - 🏥 **Healthcare AI Development**: Building RAG-powered clinical decision support systems
+- 🤖 **AI Agents & Automation**: Developing intelligent autonomous agents with LangChain and Claude
 - 🔧 **Full-Stack Engineering**: End-to-end application development with modern tech stacks
-- 🤖 **AI Integration**: Implementing GPT-4, embeddings, and vector search in production
+- 🧠 **LLM Integration**: Implementing GPT-4, Claude, embeddings, and vector search in production
 - 📊 **Data Engineering**: Working with clinical data, medical coding, and patient analytics
 
 ## 📫 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senaykt/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senaykt@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SenayYakut)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SenayYaku)
 
 </div>
 
