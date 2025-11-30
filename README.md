@@ -135,7 +135,6 @@ current_focus = {
 
 ### 👀 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/SenayYakut/count.svg)
 
 **"Building the future of healthcare, one line of code at a time."**
 
