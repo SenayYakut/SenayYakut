@@ -82,15 +82,30 @@ I'm actively building and will be adding more projects showcasing:
 - API development
 - Open source contributions
 
-## 📊 GitHub Stats
+## 📊 GitHub Highlights
 
 <div align="center">
 
-![Senay's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenayYakut&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+### 🔥 Recent Activity & Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SenayYakut&theme=radical&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=SenayYakut&color=blueviolet&style=for-the-badge)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SenayYakut&layout=compact&theme=radical&hide_border=true)
+[![GitHub followers](https://img.shields.io/github/followers/SenayYakut?style=for-the-badge&logo=github&label=Followers)](https://github.com/SenayYakut)
+[![GitHub stars](https://img.shields.io/github/stars/SenayYakut?style=for-the-badge&logo=github&label=Total%20Stars)](https://github.com/SenayYakut)
+
+### 💼 Featured Repositories
+
+<a href="https://github.com/SenayYakut/-AI-Agent-Security-Defense">
+  <img align="center" src="https://img.shields.io/badge/🛡️_AI_Agent_Security-Featured-FF0000?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/SenayYakut/Heidihack">
+  <img align="center" src="https://img.shields.io/badge/🏥_Clinical_AI_Assistant-Featured-00C853?style=for-the-badge" />
+</a>
+
+### 📈 Contribution Activity
+
+Visit my [GitHub Profile](https://github.com/SenayYakut) to see my latest contributions and projects!
 
 </div>
 
