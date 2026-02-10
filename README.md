@@ -10,8 +10,8 @@
 
 I'm a **Full-Stack Developer** passionate about leveraging **AI/ML** to solve real-world problems in healthcare. I specialize in building intelligent systems that bridge the gap between cutting-edge technology and practical clinical applications.
 
-- 🔭 Currently working on **AI-powered clinical decision support systems**
-- 🌱 Learning **AI Agents, Advanced RAG architectures, Vector Databases, and LLM Fine-tuning**
+- 🔭 Currently working on **AI-powered healthcare research agents and clinical decision support systems**
+- 🌱 Learning **Agentic AI in Healthcare, Enterprise RAG Pipelines, HIPAA-compliant AI Design, and Healthcare AI Governance**
 - 💡 Interested in **Healthcare AI, Autonomous Agents, Machine Learning, and Full-Stack Development**
 - 🎯 Goal: **Build impactful technology that improves patient outcomes**
 - 📫 Reach me: **senaykt@gmail.com**
@@ -41,6 +41,8 @@ I'm a **Full-Stack Developer** passionate about leveraging **AI/ML** to solve re
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude-8A3FFC?style=for-the-badge&logo=anthropic&logoColor=white)
+![Contextual AI](https://img.shields.io/badge/Contextual_AI-00B4D8?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B6B?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -75,12 +77,29 @@ An intelligent healthcare platform that automates SOAP note generation, provides
 
 ---
 
-### 💡 More Projects Coming Soon!
-I'm actively building and will be adding more projects showcasing:
-- Full-stack web applications
-- Machine learning models
-- API development
-- Open source contributions
+### 🩺 [MedAssist - Healthcare Research Agent](https://github.com/SenayYakut/medassist-healthcare-agent)
+**RAG-powered healthcare research assistant built at Elastic x Contextual AI Hack Night**
+
+A healthcare AI agent that searches authoritative medical literature (NIH, CDC, WHO) and provides evidence-based answers with source citations. Unlike regular LLMs that rely on stale training data, MedAssist uses up-to-date documents and cites every claim back to the exact source and page.
+
+**Tech:** Python, Contextual AI Platform, Claude Sonnet 4.5, RAG Pipeline, Agent Composer
+
+**Key Features:**
+- 📄 RAG pipeline grounded in real healthcare documents — no hallucination
+- 🔍 Semantic search + reranking across clinical guidelines
+- 🔄 Multi-pass agentic research loop (up to 5 search rounds per query)
+- 💬 Multi-turn conversations with follow-up support
+- 📋 Automatic source citations with document name and page number
+- ⚕️ Built-in medical disclaimers for responsible AI
+
+---
+
+### 🛡️ [AI Agent Security Defense](https://github.com/SenayYakut/-AI-Agent-Security-Defense)
+**Comprehensive AI agent security with 8 defensive layers**
+
+Multi-layered security system for AI agents including device fingerprinting, behavioral monitoring, prompt injection detection, memory integrity, and audit logging.
+
+**Tech:** Python, Security Architecture, Prompt Injection Defense
 
 ## 📊 GitHub Highlights
 
@@ -94,6 +113,10 @@ I'm actively building and will be adding more projects showcasing:
 [![GitHub stars](https://img.shields.io/github/stars/SenayYakut?style=for-the-badge&logo=github&label=Total%20Stars)](https://github.com/SenayYakut)
 
 ### 💼 Featured Repositories
+
+<a href="https://github.com/SenayYakut/medassist-healthcare-agent">
+  <img align="center" src="https://img.shields.io/badge/🩺_MedAssist_Healthcare_Agent-Featured-00B4D8?style=for-the-badge" />
+</a>
 
 <a href="https://github.com/SenayYakut/-AI-Agent-Security-Defense">
   <img align="center" src="https://img.shields.io/badge/🛡️_AI_Agent_Security-Featured-FF0000?style=for-the-badge" />
@@ -113,21 +136,42 @@ Visit my [GitHub Profile](https://github.com/SenayYakut) to see my latest contri
 
 ```python
 current_focus = {
-    "AI/ML": ["AI Agents", "Advanced RAG Systems", "Vector Databases", "LLM Fine-tuning"],
-    "Agent Frameworks": ["LangChain", "AutoGen", "Claude Agent SDK", "CrewAI"],
+    "Agentic AI in Healthcare": [
+        "AGENT Framework - human-first vs. agent-first workflow evaluation",
+        "HIPAA-compliant AI solution design",
+        "Healthcare AI governance policies",
+        "Strategic healthcare AI deployment"
+    ],
+    "AI/ML": [
+        "AI Agents", "Advanced RAG Architectures",
+        "Enterprise RAG Platforms (Contextual AI)",
+        "Vector Databases", "LLM Fine-tuning",
+        "Semantic Search & Reranking"
+    ],
+    "Agent Frameworks": [
+        "LangChain", "AutoGen", "Claude Agent SDK",
+        "CrewAI", "Contextual AI Agent Composer"
+    ],
     "Backend": ["Microservices Architecture", "GraphQL", "Real-time Systems"],
     "DevOps": ["Kubernetes", "CI/CD Pipelines", "Cloud Deployment"],
-    "Healthcare": ["FHIR Standards", "HL7", "HIPAA Compliance"]
+    "Healthcare": [
+        "FHIR Standards", "HL7", "HIPAA Compliance",
+        "Clinical Decision Support Systems",
+        "Healthcare Data Interoperability"
+    ]
 }
 ```
 
+> 📚 **Upcoming:** Harvard Data Science Review - Agentic AI in Healthcare Intensive (Feb 2026)
+
 ## 💼 Experience Highlights
 
-- 🏥 **Healthcare AI Development**: Building RAG-powered clinical decision support systems
-- 🤖 **AI Agents & Automation**: Developing intelligent autonomous agents with LangChain and Claude
+- 🏥 **Healthcare AI Development**: Building RAG-powered clinical decision support systems and healthcare research agents
+- 🤖 **AI Agents & Automation**: Developing intelligent autonomous agents with LangChain, Claude, and Contextual AI
 - 🔧 **Full-Stack Engineering**: End-to-end application development with modern tech stacks
-- 🧠 **LLM Integration**: Implementing GPT-4, Claude, embeddings, and vector search in production
+- 🧠 **LLM Integration**: Implementing GPT-4, Claude, embeddings, rerankers, and vector search in production
 - 📊 **Data Engineering**: Working with clinical data, medical coding, and patient analytics
+- 🔐 **Healthcare Compliance**: Designing AI solutions with HIPAA compliance built in from the start
 
 ## 📫 Let's Connect!
 
