@@ -161,7 +161,7 @@ Sole founding engineer at **OptiKube**, a B2B Kubernetes optimization platform �
 
 <br/>
 
-## 💭 Quote
+## 💭 Quote of the Day
 
 <table align="center" width="100%">
 <tr>
