@@ -111,7 +111,7 @@ Sole founding engineer at **OptiKube**, a B2B Kubernetes optimization platform â
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SenayYakut&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Senay's GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SenayYakut&show_icons=true&theme=default&hide_border=true" alt="Senay's GitHub stats" height="165"/>
 <img src="https://streak-stats.demolab.com?user=SenayYakut&hide_border=true" alt="Senay's GitHub streak" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenayYakut&layout=compact&hide_border=true" alt="Top languages" height="165"/>
@@ -128,9 +128,13 @@ Sole founding engineer at **OptiKube**, a B2B Kubernetes optimization platform â
 
 <br/>
 
-## ðŸ’­ Quote
+## ðŸ’­ Quote of the Day
 
-> "The best AI systems in healthcare are built by people who understand what happens when they fail."
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
+
+</div>
 
 <br/>
 
