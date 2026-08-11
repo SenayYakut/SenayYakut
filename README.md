@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Senay+%F0%9F%91%8B;Former+ICU%2FER+Nurse+%E2%9E%A1%EF%B8%8F+AI+Engineer;Building+Healthcare+AI+Clinicians+Can+Trust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Senay;Former+ICU%2FER+Nurse+%E2%86%92+AI+Engineer;Building+Healthcare+AI+You+Can+Trust" alt="Typing SVG" />
 
 </div>
 
@@ -112,7 +112,7 @@ Sole founding engineer at **OptiKube**, a B2B Kubernetes optimization platform â
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SenayYakut&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Senay's GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SenayYakut&hide_border=true" alt="Senay's GitHub streak" height="165"/>
+<img src="https://streak-stats.demolab.com?user=SenayYakut&hide_border=true" alt="Senay's GitHub streak" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenayYakut&layout=compact&hide_border=true" alt="Top languages" height="165"/>
 
