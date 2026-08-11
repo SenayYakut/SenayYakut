@@ -18,13 +18,11 @@ I'm a full-stack AI engineer who spent years as a cardiac surgery ICU, pediatric
 
 <br/>
 
-## 🐍 Live Contribution Activity
+## 📈 Recent Activity
 
 <div align="center">
 
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/SenayYakut/SenayYakut/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="700"/>
-<!--END_SECTION:snake-->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SenayYakut&theme=minimal&hide_border=true" alt="Senay's contribution activity graph" width="700"/>
 
 </div>
 
