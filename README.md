@@ -44,11 +44,18 @@ I'm a full-stack AI engineer who spent years as a cardiac surgery ICU, pediatric
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square)
 ![RAG](https://img.shields.io/badge/-RAG-8E44AD?style=flat-square)
 ![MCP](https://img.shields.io/badge/-MCP-2E86C1?style=flat-square)
+![Mem0](https://img.shields.io/badge/-Mem0-000000?style=flat-square)
 
 **Evaluation & Observability**
 
 ![Langfuse](https://img.shields.io/badge/-Langfuse-000000?style=flat-square)
 ![Evidently AI](https://img.shields.io/badge/-Evidently%20AI-FF4B4B?style=flat-square)
+
+**Vector Databases**
+
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6F00?style=flat-square)
+![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square)
+![FAISS](https://img.shields.io/badge/-FAISS-4267B2?style=flat-square&logo=meta&logoColor=white)
 
 **Infra & Databases**
 
@@ -56,6 +63,9 @@ I'm a full-stack AI engineer who spent years as a cardiac surgery ICU, pediatric
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Healthcare Interoperability**
 
