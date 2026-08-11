@@ -88,19 +88,19 @@ Confidence scoring routes uncertain decisions to human review; retry logic and f
 
 `LangChain` `FastAPI` `Langfuse` `Evidently AI` `FHIR R4`
 
+### 🤖 [SQL Query Buddy](https://github.com/SenayYakut/sql-query-buddy)
+**A conversational database assistant with a hybrid two-tier memory system.**
+Turns natural language into SQL, with Redis for short-term conversation memory and Mem0/Qdrant for long-term semantic memory, plus ChromaDB-backed RAG for schema retrieval.
+
+`FastAPI` `LangChain` `ChromaDB` `Qdrant` `Mem0` `Redis`
+
 ### 🏥 Clinical AI Assistant (Heidihack)
 AI-powered clinical decision support using RAG + GPT-4 — automated SOAP note generation, differential diagnosis support, ICD-10 coding, and allergy/contraindication safety checks.
-
-**Key Features:**
-🧠 RAG-powered semantic search &nbsp;·&nbsp; 📋 Automated SOAP notes &nbsp;·&nbsp; 🔍 Differential diagnosis with risk stratification &nbsp;·&nbsp; 💊 Automatic ICD-10 coding &nbsp;·&nbsp; ⚠️ Allergy/contraindication safety checks
 
 `Python` `FastAPI` `OpenAI GPT-4` `FAISS` `React` `RAG`
 
 ### 🔍 MedAssist — Healthcare Research Agent
-RAG-powered research agent grounded in NIH, CDC, and WHO sources, with multi-pass agentic search and full source citation on every claim — no hallucinated medical answers.
-
-**Key Features:**
-📄 Grounded in real healthcare documents &nbsp;·&nbsp; 🔍 Semantic search + reranking &nbsp;·&nbsp; 🔄 Multi-pass agentic research loop &nbsp;·&nbsp; 💬 Multi-turn conversations &nbsp;·&nbsp; 📋 Automatic source citations
+RAG-powered research agent grounded in NIH, CDC, and WHO sources, with multi-pass agentic search and full source citation on every claim.
 
 `Python` `Contextual AI` `Claude` `RAG Pipeline`
 
@@ -130,6 +130,29 @@ Sole founding engineer at **OptiKube**, a B2B Kubernetes optimization platform �
 
 <br/>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/SenayYakut/SenayYakut/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+<!--END_SECTION:snake-->
+
+</div>
+
+*Auto-regenerated daily from real commit activity — [workflow](.github/workflows/generate-snake.yml).*
+
+<br/>
+
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+*Auto-pulled from [dev.to/senaykt](https://dev.to/senaykt) — [workflow](.github/workflows/update-blog-posts.yml).*
+
+<br/>
+
 ## 🎤 Speaking & Recognition
 
 - Speaker, **PyLadies SF** — *"From ER Nurse to AI Engineer: Building Real Healthcare AI Systems with RAG & Agents"*
@@ -140,11 +163,11 @@ Sole founding engineer at **OptiKube**, a B2B Kubernetes optimization platform �
 
 ## 💭 Quote of the Day
 
-<div align="center">
+<!-- QUOTE:START -->
+> "The best AI systems in healthcare are built by people who understand what happens when they fail."
+<!-- QUOTE:END -->
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
-
-</div>
+*Updated daily via [GitHub Actions](.github/workflows/update-quote.yml) — a real commit, not a cached image.*
 
 <br/>
 
