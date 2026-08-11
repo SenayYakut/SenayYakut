@@ -2,12 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Senay;Former+ICU%2FER+Nurse+%E2%86%92+AI+Engineer;Building+Healthcare+AI+You+Can+Trust" alt="Typing SVG" />
 
-<br/>
-
-### 💭 <!-- QUOTE:START -->"The best AI systems in healthcare are built by people who understand what happens when they fail."<!-- QUOTE:END -->
-
-<sub>🔄 Updated daily via GitHub Actions</sub>
-
 </div>
 
 <br/>
@@ -164,6 +158,22 @@ Sole founding engineer at **OptiKube**, a B2B Kubernetes optimization platform �
 - Speaker, **PyLadies SF** — *"From ER Nurse to AI Engineer: Building Real Healthcare AI Systems with RAG & Agents"*
 - Published, **Harvard Data Science Review**
 - Winner, **SF Builders Collective Agent Hack Day**
+
+<br/>
+
+## 💭 Quote
+
+<table align="center" width="100%">
+<tr>
+<td align="center" style="padding: 20px;">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
+
+</td>
+</tr>
+</table>
+
+<div align="center"><sub>Refreshes with a new quote — if it looks the same, GitHub or your browser is caching the image; a hard refresh (Cmd/Ctrl+Shift+R) usually clears it.</sub></div>
 
 <br/>
 
