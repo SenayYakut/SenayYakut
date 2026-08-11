@@ -2,7 +2,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Senay;Former+ICU%2FER+Nurse+%E2%86%92+AI+Engineer;Building+Healthcare+AI+You+Can+Trust" alt="Typing SVG" />
 
+<br/>
+
+### 💭 <!-- QUOTE:START -->"The best AI systems in healthcare are built by people who understand what happens when they fail."<!-- QUOTE:END -->
+
+<sub>🔄 Updated daily via GitHub Actions</sub>
+
 </div>
+
+<br/>
 
 ## 🚀 About Me
 
@@ -13,6 +21,27 @@ I'm a full-stack AI engineer who spent years as a cardiac surgery ICU, pediatric
 - 💡 Interested in: healthcare AI, autonomous agents, agent evaluation & observability, FHIR interoperability
 - 🎯 Goal: build AI systems clinicians can actually trust — not just accurate in a demo
 - 📫 Reach me: senay@senayyakut.dev · [LinkedIn](https://www.linkedin.com/in/senaykt/)
+
+<br/>
+
+## 🐍 Live Contribution Activity
+
+<div align="center">
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/SenayYakut/SenayYakut/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="700"/>
+<!--END_SECTION:snake-->
+
+</div>
+
+<br/>
+
+## ✍️ Latest Writing
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<sub>Auto-pulled from [dev.to/senaykt](https://dev.to/senaykt)</sub>
 
 <br/>
 
@@ -130,44 +159,11 @@ Sole founding engineer at **OptiKube**, a B2B Kubernetes optimization platform �
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/SenayYakut/SenayYakut/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-<!--END_SECTION:snake-->
-
-</div>
-
-*Auto-regenerated daily from real commit activity — [workflow](.github/workflows/generate-snake.yml).*
-
-<br/>
-
-## ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-*Auto-pulled from [dev.to/senaykt](https://dev.to/senaykt) — [workflow](.github/workflows/update-blog-posts.yml).*
-
-<br/>
-
 ## 🎤 Speaking & Recognition
 
 - Speaker, **PyLadies SF** — *"From ER Nurse to AI Engineer: Building Real Healthcare AI Systems with RAG & Agents"*
 - Published, **Harvard Data Science Review**
 - Winner, **SF Builders Collective Agent Hack Day**
-
-<br/>
-
-## 💭 Quote of the Day
-
-<!-- QUOTE:START -->
-> "The best AI systems in healthcare are built by people who understand what happens when they fail."
-<!-- QUOTE:END -->
-
-*Updated daily via [GitHub Actions](.github/workflows/update-quote.yml) — a real commit, not a cached image.*
 
 <br/>
 
